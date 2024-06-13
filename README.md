@@ -1,9 +1,9 @@
 
-## Queueing System Simulation
+## Queueing System Simulation 📊
 
 This repository implements a two-server queueing system simulation to analyze performance metrics.
 
-### Functionality
+### Functionality 🛠️
 
 The code performs two main analyses:
 
@@ -24,7 +24,7 @@ The code performs two main analyses:
 -   Generates informative plots visualizing the changes in L1 and L2 over time.
 -   Saves the plots as PNG images for clear representation.
 
-### Code Structure
+### Code Structure 🧩
 
 The code is organized into well-defined functions for better readability and maintainability:
 
